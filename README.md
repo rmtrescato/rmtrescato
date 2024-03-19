@@ -2,8 +2,7 @@
 
 Tenho 43 anos, moro em Bauru/SP e sou um aventureiro no universo da programação, criador oficial de bugs e quanto mais eu aprendo e passo raiva, mais eu me interesso por novas tecnologias e soluções!
 
-<div class="tenor-gif-embed" data-postid="7551965" data-share-method="host" data-aspect-ratio="1.84049" data-width="100%"><a href="https://tenor.com/view/respect-hat-cap-kid-gif-7551965"></a>
-  <a href="https://tenor.com/search/respect-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<iframe src="https://giphy.com/embed/duNowzaVje6Di3hnOu" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tv2norge-dance-celebration-birthday-duNowzaVje6Di3hnOu">via GIPHY</a></p>
 
 
 # Contatos:
@@ -13,7 +12,6 @@ Tenho 43 anos, moro em Bauru/SP e sou um aventureiro no universo da programaçã
 <a href="https://instagram.com/rmtrescato" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href = "mailto:rmtrescato@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/rmtrescato" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://discord.com/login/rmtrescato" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-plain.svg" width="40" height="40" target="_blank" ></a>
 </div>
 
 ## Dashboard
