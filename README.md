@@ -1,3 +1,5 @@
+<h1 align="left" class="heading-element" dir="auto">Rodrigo M Trescato</h1>
+
 ##  👋 Hello Devs! 👋
 
 Tenho 43 anos, moro em Bauru/SP e sou um aventureiro no universo da programação, criador oficial de bugs e quanto mais eu aprendo e passo raiva, mais eu me interesso por novas tecnologias e soluções!
