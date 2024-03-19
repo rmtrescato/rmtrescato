@@ -1,5 +1,15 @@
 <h1 align="left" class="heading-element" dir="auto">Rodrigo M Trescato</h1>
 
+<div align=left>
+<a href="https://www.youtube.com/channel/UCQiGXFi-B6x8O4BX5RXDFiQ" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/rmtrescato" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<a href = "mailto:rmtrescato@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/rmtrescato" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
+
+
 ###  👋 Hello Devs! 👋
 
 Tenho 43 anos, moro em Bauru/SP e sou um aventureiro no universo da programação, criador oficial de bugs e quanto mais eu aprendo e passo raiva, mais eu me interesso por novas tecnologias e soluções!
@@ -22,15 +32,6 @@ Tenho 43 anos, moro em Bauru/SP e sou um aventureiro no universo da programaçã
 📫 Você pode falar comigo pelo <a href="https://www.instagram.com/rmtrescato" rel="nofollow">Instagram</a> ou pelo <a href="https://wa.me/5514996179616" rel="nofollow">WhatsAp</a> e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 
-
-## Contatos:
-
-<div align=center>
-<a href="https://www.youtube.com/channel/UCQiGXFi-B6x8O4BX5RXDFiQ" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
-<a href="https://instagram.com/rmtrescato" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<a href = "mailto:rmtrescato@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/rmtrescato" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 ## Dashboard
 
