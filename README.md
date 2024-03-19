@@ -4,7 +4,7 @@ Tenho 43 anos, moro em Bauru/SP e sou um aventureiro no universo da programaçã
 
 <div align=center>
   <img 
-src="https://camo.githubusercontent.com/43927ca9aba739e1c5dcc110be493c08bda983d73e6aee3fd15a64adb23fc8fe/68747470733a2f2f73757065722e616272696c2e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30392f73757065725f696d676761746f5f6469676974616e646f5f302e676966" data-canonical-src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" style="max-width: 40%; display: inline-block;" data-target="animated-image.originalImage">
+src="https://camo.githubusercontent.com/43927ca9aba739e1c5dcc110be493c08bda983d73e6aee3fd15a64adb23fc8fe/68747470733a2f2f73757065722e616272696c2e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30392f73757065725f696d676761746f5f6469676974616e646f5f302e676966" data-canonical-src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" style="max-width: 10%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 
 
