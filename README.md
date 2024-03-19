@@ -7,6 +7,18 @@ Tenho 43 anos, moro em Bauru/SP e sou um aventureiro no universo da programaçã
 src="https://camo.githubusercontent.com/43927ca9aba739e1c5dcc110be493c08bda983d73e6aee3fd15a64adb23fc8fe/68747470733a2f2f73757065722e616272696c2e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30392f73757065725f696d676761746f5f6469676974616e646f5f302e676966" data-canonical-src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 
+## Tecnologias e Ferramentas
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
+
+📚 Tenho estudado Python, Django e iniciei meus estudos para desenvolver apps para Android;
+📷 Compartilho minhas experiências com transição de carreira, em meu LinkedIn. Segue lá!
+🎮 Amo café, gosto de games, nao bebo e nao fumo e sou frequentador assiduo de academia.
+
+📫 Você pode falar comigo pelo <a href="https://www.instagram.com/rmtrescato" rel="nofollow">Instagram</a> ou pelo <a href="https://wa.me/5514996179616" rel="nofollow">WhatsAp</a> e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+
+
+
 # Contatos:
 
 <div align=center>
@@ -24,10 +36,6 @@ src="https://camo.githubusercontent.com/43927ca9aba739e1c5dcc110be493c08bda983d7
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rmtrescato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
-## Ferramentas e Tecnologias
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
 
 
 ## Estou aprendendo
