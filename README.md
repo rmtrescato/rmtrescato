@@ -3,12 +3,11 @@
 Tenho 43 anos, moro em Bauru/SP e sou um aventureiro no universo da programação, criador oficial de bugs e quanto mais eu aprendo e passo raiva, mais eu me interesso por novas tecnologias e soluções!
 
 <div class="tenor-gif-embed" data-postid="7551965" data-share-method="host" data-aspect-ratio="1.84049" data-width="100%">
-  <a href="https://tenor.com/view/respect-hat-cap-kid-gif-7551965">Respect Hat GIF</a>
-  <a href="https://tenor.com/search/respect-gifs">Respect GIFs</a>
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 </div> 
 
-- ## Contatos:
+
+# Contatos:
 
 <div align=center>
 <a href="https://www.youtube.com/channel/UCQiGXFi-B6x8O4BX5RXDFiQ" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
