@@ -10,7 +10,7 @@ Tenho 43 anos, moro em Bauru/SP e sou um aventureiro no universo da programaçã
 
 - ## Contatos:
 
-<div>
+<div align=center>
 <a href="https://www.youtube.com/channel/UCQiGXFi-B6x8O4BX5RXDFiQ" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/rmtrescato" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href = "mailto:rmtrescato@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
