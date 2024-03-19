@@ -12,7 +12,9 @@ src="https://camo.githubusercontent.com/43927ca9aba739e1c5dcc110be493c08bda983d7
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
 
 📚 Tenho estudado Python, Django e iniciei meus estudos para desenvolver apps para Android;
+
 📷 Compartilho minhas experiências com transição de carreira, em meu LinkedIn. Segue lá!
+
 🎮 Amo café, gosto de games, nao bebo e nao fumo e sou frequentador assiduo de academia.
 
 📫 Você pode falar comigo pelo <a href="https://www.instagram.com/rmtrescato" rel="nofollow">Instagram</a> ou pelo <a href="https://wa.me/5514996179616" rel="nofollow">WhatsAp</a> e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
