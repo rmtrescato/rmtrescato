@@ -30,7 +30,7 @@ Um aventureiro no universo da programação, criador oficial de bugs e quanto ma
 
 🎮 Amo café, gosto de baskete e games, nao bebo e nao fumo e sou frequentador assiduo de academia.
 
-📫 Você pode falar comigo pelo <a href="https://www.instagram.com/rmtrescato" rel="nofollow">Instagram</a> ou pelo <a href="https://wa.me/5514996179616" rel="nofollow">WhatsAp</a> e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+📫 Você pode conhecer um pouco mais sobre meu historico profissional no meu <a href="https://linkedin.com/in/rmtrescato" rel="nofollow">LinkedIn</a> ou <a href="https://wa.me/5514996179616" rel="nofollow">WhatsAp</a> e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 
 
